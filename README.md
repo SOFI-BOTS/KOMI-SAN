@@ -1,7 +1,7 @@
 > #### 🚀 Versión actual: 1.0.0
 
 <p align="center"> 
-  <a href="https://github.com/SOFI-BOTS"><img src="http://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=17&duration=4000&color=F72459&center=falso&vCenter=falso&lines=KomiSan+%F0%9F%8C%A0;Gracias+por+pasar+por+este+repositorio;Que+tengas+bonito+dia+%E2%99%A5%EF%B8%8F" height="90px"
+  <a href="https://github.com/SOFI-BOTS"><img src="http://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=17&duration=4000&color=F72459&center=falso&vCenter=falso&lines=Komi-San+%F0%9F%8C%A0;Gracias+por+pasar+por+este+repositorio;Que+tengas+bonito+dia+%E2%99%A5%EF%B8%8F" height="90px"
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 #### ☂️ PARA USUARIOS DE HEROKU 
 #### ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SofiGusRobert/Komi-San) <img src="https://c.tenor.com/DBqXXNQkF28AAAAd/komi-san.gif" height="32px">
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOFI-BOTS/KOMI-SAN) <img src="https://c.tenor.com/DBqXXNQkF28AAAAd/komi-san.gif" height="32px">
 ### Añada lo siguente al Buildpack: <img src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/backhand-index-pointing-down-microsoft.png" height="32px">
 ```bash
 > heroku/nodejs
@@ -71,7 +71,7 @@
   
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/SOFI-BOTS/KOMI-SAN/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/SOFI-BOTS/KOMI-SAN/blob/master/config.js)
   
 ----
 
@@ -128,6 +128,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <p>> Dudas UNICAMENTE SOBRE EL HOST:
 <a href="https://discord.gg/84qsr4v">https://discord.gg/84qsr4v</a> (Preguntar por Vicemi)
 </p>
+  
 ----
 
 ### NOTA 
@@ -145,15 +146,17 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - EL BOT FUNCIONA AUNQUE EL WHATSAPP NO TENGA CONEXION 
 - SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
 ```
+  
 ----
 
+  
 ### 🌟 CREADORA 
  
-[![SofiGusRobert](https://github.com/SOFI-BOTS.png?size=100)](https://github.com/SOFI-BOTS) 
+[![SofiGusRobert](https://github.com/SOFI-BOTS.png?size=100)](https://github.com/SOFI-BOTS) <img src="https://c.tenor.com/r3QF2uq8IVgAAAAd/komi-komi-san.gif" height="100px">
  
 ### 🌟 AGRADECIMIENTOS
  
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) <img src="https://tenor.com/view/meme-certified-bot-dog-pup-puppy-gif-16101329.gif" height="30px">
+[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) <img src="https://tenor.com/view/meme-certified-bot-dog-pup-puppy-gif-16101329.gif" height="100px">
 
 
   

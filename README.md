@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/JUr1Qsv.jpg" alt="KOMI-SAN" width="900"/>
+<img src="https://c.tenor.com/r3QF2uq8IVgAAAAd/komi-komi-san.gif" alt="KOMI-SAN" width="900"/>
 </p>
 
 
@@ -152,7 +152,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   
 ### 🌟 CREADORA 
  
-[![SofiGusRobert](https://github.com/SOFI-BOTS.png?size=100)](https://github.com/SOFI-BOTS) <img src="https://c.tenor.com/r3QF2uq8IVgAAAAd/komi-komi-san.gif" height="100px">
+[![SofiGusRobert](https://github.com/SOFI-BOTS.png?size=100)](https://github.com/SOFI-BOTS) <img src="https://c.tenor.com/3vbtf01iKJcAAAAC/komi-san-komi-cant-communicate.gif" height="100px">
  
 ### 🌟 AGRADECIMIENTOS
  

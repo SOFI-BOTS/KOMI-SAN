@@ -156,7 +156,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
  
 ### 🌟 AGRADECIMIENTOS
  
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) <img src="https://tenor.com/view/meme-certified-bot-dog-pup-puppy-gif-16101329.gif" height="100px">
+[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) <img src="https://c.tenor.com/c8SIN4sVRgsAAAAC/cat-kitten.gif" height="100px">
 
 
   

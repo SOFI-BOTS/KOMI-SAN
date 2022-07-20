@@ -33,15 +33,21 @@
 <a href="https://instagram.com/sofibots/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 <a href="https://github.com/SOFI-BOTS"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="40px"
 </p>
+  
+----
 
 > NO SE PERMITEN BOTS EN EL GRUPO ASIQUE PORFAVOR SI ENTRAS NO ACTIVES EL BOT O INGRESA CON OTRO NUMERO
+  
+----
   
 [![blog](https://img.shields.io/badge/Grupo1-komisan-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/L8nOI3GiXSO9UZkFdiN4Wd) <a href="https://chat.whatsapp.com/L8nOI3GiXSO9UZkFdiN4Wd"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 <a href="http://wa.me/573246727415" target="blank"><img src="https://img.shields.io/badge/SOFI_BOTS_CREADORA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+  
 -----
+  
 ### 💖 ```DONAR``` [`Aquí`](https://paypal.me/GGutierrezContreras)
 ### 🟣 ACTIVAR EN HEROKU 
 #### ☂️ PARA USUARIOS DE HEROKU 
@@ -61,12 +67,12 @@
 ```bash
 > https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ```
-ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
-```
 ----
+  
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/SOFI-BOTS/KOMI-SAN/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
+  
 ----
 
 ### ACTIVAR EN TERMUX  <img src="https://c.tenor.com/H1yYd0FgDfcAAAAd/komi-san-komi-cant-communicate.gif" height="32px">
@@ -83,7 +89,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd ZeroTwo-02
 > npm start
 ```
-----    
+----  
+  
 ###  AJUSTE <img src="https://i.pinimg.com/originals/98/1b/e2/981be28d3ec7b85bfb797a5f9e6a01c2.png" height="32px">
 - CLONAR EL REPOSITORIO [`Aquí`](https://github.com/SOFI-BOTS/KOMI-SAN/fork)
 - CAMBIAR NÚMERO DEL OWNER [`Aquí`](https://github.com/SOFI-BOTS/KOMI-SAN/blob/master/config.js)
@@ -96,6 +103,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd Komi-San
 > npm start
 ```
+  
 ----
 
 ### OBTENER OTRO CODIGO QR  <img src="https://tenor.com/view/downsign-qr-code-brick-game-sam-omo-game-gif-13566001.gif" height="30px">

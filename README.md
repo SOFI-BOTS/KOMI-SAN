@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://c.tenor.com/r3QF2uq8IVgAAAAd/komi-komi-san.gif" alt="KOMI-SAN" width="900"/>
+<img src="https://c.tenor.com/r3QF2uq8IVgAAAAd/komi-komi-san.gif" alt="KOMI-SAN" width="850"/>
 </p>
 
 

@@ -85,8 +85,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
+> pkg install yarn
 > git clone https://github.com/SOFI-BOTS/KOMI-SAN
 > cd ZeroTwo-02
+> yarn install 
+> npm install
+> npm update
 > npm start
 ```
 ----  

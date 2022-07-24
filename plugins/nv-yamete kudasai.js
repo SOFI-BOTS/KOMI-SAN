@@ -3,8 +3,8 @@ import path from 'path'
 
 let handler = async (m, { conn }) => {
 if (!db.data.chats[m.chat].audios && m.isGroup) throw 0
-let vn = './media/Yamete-kudasai.mp3'
-conn.sendFile(m.chat, vn, 'Yamete-kudasai.mp3', null, m, true, {
+let vn = './media/Yamete-Kudasai.mp3'
+conn.sendFile(m.chat, vn, 'Yamete-Kudasai.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true
 })
